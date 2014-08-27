@@ -54,6 +54,6 @@ We may not have covered all of these in class, but if you want to push yourself 
 
 ## TIMELINE
 
-* August 27 - Thursday, February 20th - Project spec and Groups assigned 
-* Weekend between W7/W8 - Project work officially begins
-* September 5 - Friday, February 28th - Completed project deliverables due at 10am
+* August 27 - Thursday - Project spec and Groups assigned 
+* August 28 - Project work officially begins
+* September 5 - Friday - Completed project deliverables due at 10am
