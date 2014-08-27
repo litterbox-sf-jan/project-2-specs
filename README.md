@@ -11,7 +11,8 @@ You will be working in **groups of 4** for this project.
 
 ## CORE REQUIREMENTS
 * **Models.** Your app should have at least 3 models with appropriate associations and validations.
-* **Views.** Use partials to DRY (Don’t Repeat Yourself) up your views, loading data via Ajax when appropriate.
+* **Views.** Use **partials** heavily to DRY (Don’t Repeat Yourself) up your views, and loading data via Ajax when appropriate.
+* **RSPEC** All models should have specs with some request specs should be written. Less than 10 specs total will reflect very negatively on the overall assessment. Write them early on or you will be struggling to get them done. 
 * **Postgres.** Use [Postgres.app](http://postgresapp.com) for your database in development and production.
 * **Handles invalid data.** Forms in your application should validate data and handle incorrect inputs. Do this on both on the client-side with JavaScript and on the back-end with Rails.
 * **JavaScript & jQuery.** Spice up the front-end of your app and have some event driven functionality. Try out a new plugin or a library.
@@ -51,6 +52,17 @@ We may not have covered all of these in class, but if you want to push yourself 
 
 * Link to Heroku hosted project
 * Link to source code on GitHub
+  * Must include a `README` with the following:
+    * `Description`: A paragraph elevator pitch of your project
+    * Another Link to Heroku hosted project
+    * `Wireframes`
+      * This is a good opportunity to map out what will require AJAX 
+    * `User Stories`, `Site Flow`, or equivalent for MVP
+    * An **ERD**
+    * API's used
+    * Scope 
+    * Wishlist
+    * Contributors
 
 ## TIMELINE
 
