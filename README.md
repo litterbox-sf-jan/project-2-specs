@@ -7,6 +7,8 @@ The objective of this project is to:
 * Gain experience integrating topics covered during this course thus far.
 * Showcase your abilities to potential employers, friends, family, and community members.
 
+You will be working in **groups of 4** for this project.
+
 ## CORE REQUIREMENTS
 * **Models.** Your app should have at least 3 models with appropriate associations and validations.
 * **Views.** Use **partials** heavily to DRY (Don’t Repeat Yourself) up your views, and loading data via Ajax when appropriate.
@@ -66,3 +68,4 @@ We may not have covered all of these in class, but if you want to push yourself 
 
 * November 18 - Tuesday - spec assigned + project work begins
 * November 25 - Tuesday - Completed project deliverables due at 10am
+* December 1 - Monday - Medium blog post, sharing a key learning from this project, due at 1pm
