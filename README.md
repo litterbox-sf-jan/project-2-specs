@@ -66,5 +66,5 @@ We may not have covered all of these in class, but if you want to push yourself 
 
 ## TIMELINE
 
-* November 18 - Tuesday - spec assigned + project work 
+* November 18 - Tuesday - spec assigned + project work begins
 * November 25 - Tuesday - Completed project deliverables due at 10am
