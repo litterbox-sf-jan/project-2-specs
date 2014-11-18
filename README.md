@@ -66,6 +66,5 @@ We may not have covered all of these in class, but if you want to push yourself 
 
 ## TIMELINE
 
-* August 27 - Thursday - Project spec and Groups assigned 
-* August 28 - Project work officially begins
-* September 5 - Friday - Completed project deliverables due at 10am
+* November 18 - Tuesday - spec assigned + project work 
+* November 25 - Tuesday - Completed project deliverables due at 10am
