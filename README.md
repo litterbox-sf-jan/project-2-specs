@@ -10,7 +10,7 @@ The objective of this project is to:
 ## CORE REQUIREMENTS
 * **Models.** Your app should have at least 3 models with appropriate associations and validations.
 * **Views.** Use **partials** heavily to DRY (Don’t Repeat Yourself) up your views, and loading data via Ajax when appropriate.
-* **RSPEC** All models should have specs and some request specs should be written. Less than 10 specs total will reflect on the overall assessment. Write them early on or you will be struggling to get them done. 
+* **RSPEC** Feature specs should be written. Less than 10 specs total will reflect on the overall assessment. Write them early on or you will be struggling to get them done. 
 * **Postgres.** Use [Postgres.app](http://postgresapp.com) for your database in development and production.
 * **Handles invalid data.** Forms in your application should validate data and handle incorrect inputs. Do this on both on the client-side with JavaScript and on the back-end with Rails.
 * **JavaScript & jQuery.** Spice up the front-end of your app with event driven functionality. Try out a new plugin or a library.
