@@ -62,7 +62,7 @@ We may not have covered all of these in class, but if you want to push yourself 
 
 ## TIMELINE
 
-* March 2 - Monday - spec and groups assigned, start thinking about ideas
+* March 3 - Tuesday - spec and groups assigned, start thinking about ideas
 * March 5 - Thursday -  project work begins
 * March 13 - Friday - Completed project deliverables due at 10am
 * March 13 - Friday - Presentations!
